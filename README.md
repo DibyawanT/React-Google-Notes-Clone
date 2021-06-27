@@ -1,2 +1,2 @@
-# React-Google-Notes-Clone
-Created with CodeSandbox
+# google_keep_clone
+A clone of google keep  created using react.
